@@ -1,0 +1,17 @@
+
+.navbar{
+background-color:green;
+}
+
+
+.navbar li a{
+color:white !important;
+}
+
+.navbar li a:hover{
+color:violet !important;
+}
+
+.navbar li a:active{
+color:green !important;
+}
